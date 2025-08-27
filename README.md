@@ -13,7 +13,7 @@ This repository hosts the implementation of two key research works on residentia
 ## Installation
 1. Clone this repository:
 ```bash
-[git clone https://github.com/your-username/Residential_Floorplan_Diffusion.git](https://github.com/zengpengyu-student/Residential_Floorplan_Diffusion.git)
+git clone https://github.com/zengpengyu-student/Residential_Floorplan_Diffusion.git
 cd Residential_Floorplan_Diffusion
 ```
 2. Install dependencies via pip:
